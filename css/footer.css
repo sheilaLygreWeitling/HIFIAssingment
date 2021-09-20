@@ -1,0 +1,46 @@
+.Footer {
+    background-color: rgb(160, 145, 103);
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-left {
+    flex-direction: column;
+    line-height: .5;
+    margin: 1em;
+}
+
+.div-right {
+    color: white;
+    margin-top: 2.1em;
+}
+
+.div-right a {
+    color: white;
+}
+
+.div-payment{
+    max-width: 400px;
+    max-height: 100px;
+    margin-top: 1em;
+}
+
+.div-soMe li {
+    list-style-type: none;
+    border: solid 1px white;
+    border-radius: 60px;
+    padding: .5em;
+    margin: 2em;
+}
+
+.div-soMe {
+    color: white;
+}
+
+.div-soMe ul {
+    display: flex;
+}
+
+.div-payment-soMe {
+
+}
